@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/MishraKush/MishraKush/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MishraKush/MishraKush/blob/output/github-contribution-grid-snake2.svg)
 
 [![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=MishraKush&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,issues&hide_border=true)](https://github.com/MishraKush/github-readme-stats)
 
